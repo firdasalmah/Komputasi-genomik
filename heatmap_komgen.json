@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "id": "ARID1A",
       "values": [0.6238],
@@ -294,6 +293,4 @@
       "variant": "chrX:77508509_G>A",
       "group": 3
     }
-  ],
-  "columns": ["Group 3"]
-}
+  ]
