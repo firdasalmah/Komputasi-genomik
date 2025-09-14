@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "id": "ARID1A",
+      "values": [0.6238]
+    },
+    {
+      "id": "PTCH2",
+      "values": [0.1004]
+    },
+    {
+      "id": "MSH6",
+      "values": [0.3295]
+    },
+    {
+      "id": "IDH1",
+      "values": [0.9805]
+    },
+    {
+      "id": "D2HGDH",
+      "values": [0.0734]
+    },
+    {
+      "id": "CTNNB1",
+      "values": [0.9984]
+    },
+    {
+      "id": "FGFR3",
+      "values": [0.9983]
+    },
+    {
+      "id": "HTT",
+      "values": [0.0772]
+    },
+    {
+      "id": "PDGFRA",
+      "values": [0.0592]
+    },
+    {
+      "id": "MCC",
+      "values": [0.5]
+    },
+    {
+      "id": "BRPF3",
+      "values": [0.0618]
+    },
+    {
+      "id": "ARID1B",
+      "values": [0.488]
+    },
+    {
+      "id": "MET",
+      "values": [0.0759]
+    },
+    {
+      "id": "SMO",
+      "values": [0.9897]
+    },
+    {
+      "id": "MYC",
+      "values": [0.0717]
+    },
+    {
+      "id": "LURAP1L",
+      "values": [0.5]
+    },
+    {
+      "id": "NTRK2",
+      "values": [0.1145]
+    },
+    {
+      "id": "PTCH1",
+      "values": [0.1274]
+    },
+    {
+      "id": "KLF4",
+      "values": [0.5]
+    },
+    {
+      "id": "TSC1",
+      "values": [0.1309]
+    },
+    {
+      "id": "NOTCH1",
+      "values": [0.2977]
+    },
+    {
+      "id": "FGFR2",
+      "values": [0.4708]
+    },
+    {
+      "id": "ZFTA",
+      "values": [0.1217]
+    },
+    {
+      "id": "KMT2D",
+      "values": [0.7303]
+    },
+    {
+      "id": "SMARCD1",
+      "values": [0.3929]
+    },
+    {
+      "id": "PHLDA1",
+      "values": [0.5]
+    },
+    {
+      "id": "ATXN2",
+      "values": [0.5]
+    },
+    {
+      "id": "HNF1A",
+      "values": [0.5]
+    },
+    {
+      "id": "BRCA2",
+      "values": [0.0626]
+    },
+    {
+      "id": "RB1",
+      "values": [0.0768]
+    },
+    {
+      "id": "DICER1",
+      "values": [0.1116]
+    },
+    {
+      "id": "TSC2",
+      "values": [0.0794]
+    },
+    {
+      "id": "CREBBP",
+      "values": [0.3997]
+    },
+    {
+      "id": "GSE1",
+      "values": [0.5]
+    },
+    {
+      "id": "TP53",
+      "values": [0.0724]
+    },
+    {
+      "id": "NF1",
+      "values": [0.1112]
+    },
+    {
+      "id": "PPM1D",
+      "values": [0.9929]
+    },
+    {
+      "id": "SMARCA4",
+      "values": [0.077]
+    },
+    {
+      "id": "NOTCH3",
+      "values": [0.1792]
+    },
+    {
+      "id": "LZTR1",
+      "values": [0.4107]
+    },
+    {
+      "id": "DDX3X",
+      "values": [0.5753]
+    },
+    {
+      "id": "ATRX",
+      "values": [0.273]
+    }
+  ],
+  "columns": ["Group 3"]
+}
