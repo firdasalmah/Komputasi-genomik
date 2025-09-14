@@ -1,296 +1,296 @@
-[
+[ 
     {
       "id": "ARID1A",
-      "values": [0.6238],
+      "values":  0.6238  ,
       "effect": "likely_pathogenic",
       "variant": "chr1:26697287_T>G",
       "group": 3
     },
     {
       "id": "PTCH2",
-      "values": [0.1004],
+      "values":  0.1004  ,
       "effect": "likely_benign",
       "variant": "chr1:44823158_C>A",
       "group": 3
     },
     {
       "id": "MSH6",
-      "values": [0.3295],
+      "values":  0.3295  ,
       "effect": "likely_benign",
       "variant": "chr2:47783492_A>C",
       "group": 3
     },
     {
       "id": "IDH1",
-      "values": [0.9805],
+      "values":  0.9805  ,
       "effect": "likely_pathogenic",
       "variant": "chr2:208248484_C>T",
       "group": 3
     },
     {
       "id": "D2HGDH",
-      "values": [0.0734],
+      "values":  0.0734  ,
       "effect": "likely_benign",
       "variant": "chr2:241751311_G>A",
       "group": 3
     },
     {
       "id": "CTNNB1",
-      "values": [0.9984],
+      "values":  0.9984  ,
       "effect": "likely_pathogenic",
       "variant": "chr3:41233385_C>T",
       "group": 3
     },
     {
       "id": "FGFR3",
-      "values": [0.9983],
+      "values":  0.9983  ,
       "effect": "likely_pathogenic",
       "variant": "chr4:1806305_G>T",
       "group": 3
     },
     {
       "id": "HTT",
-      "values": [0.0772],
+      "values":  0.0772  ,
       "effect": "likely_benign",
       "variant": "chr4:3074938_A>C",
       "group": 3
     },
     {
       "id": "PDGFRA",
-      "values": [0.0592],
+      "values":  0.0592  ,
       "effect": "likely_benign",
       "variant": "chr4:54261247_G>A",
       "group": 3
     },
     {
       "id": "MCC",
-      "values": [0.5],
+      "values":  0.5  ,
       "effect": "unknown",
       "variant": "chr5:113488342_T>C",
       "group": 3
     },
     {
       "id": "BRPF3",
-      "values": [0.0618],
+      "values":  0.0618  ,
       "effect": "likely_benign",
       "variant": "chr6:36225279_T>G",
       "group": 3
     },
     {
       "id": "ARID1B",
-      "values": [0.488],
+      "values":  0.488  ,
       "effect": "ambiguous",
       "variant": "chr6:156935479_A>G",
       "group": 3
     },
     {
       "id": "MET",
-      "values": [0.0759],
+      "values":  0.0759  ,
       "effect": "likely_benign",
       "variant": "chr7:116700208_A>G",
       "group": 3
     },
     {
       "id": "SMO",
-      "values": [0.9897],
+      "values":  0.9897  ,
       "effect": "likely_pathogenic",
       "variant": "chr7:129210500_G>T",
       "group": 3
     },
     {
       "id": "MYC",
-      "values": [0.0717],
+      "values":  0.0717  ,
       "effect": "likely_benign",
       "variant": "chr8:127738361_G>C",
       "group": 3
     },
     {
       "id": "LURAP1L",
-      "values": [0.5],
+      "values":  0.5  ,
       "effect": "unknown",
       "variant": "chr9:12775890_A>G",
       "group": 3
     },
     {
       "id": "NTRK2",
-      "values": [0.1145],
+      "values":  0.1145  ,
       "effect": "likely_benign",
       "variant": "chr9:84670949_C>A",
       "group": 3
     },
     {
       "id": "PTCH1",
-      "values": [0.1274],
+      "values":  0.1274  ,
       "effect": "likely_benign",
       "variant": "chr9:95447312_G>A",
       "group": 3
     },
     {
       "id": "KLF4",
-      "values": [0.5],
+      "values":  0.5  ,
       "effect": "unknown",
       "variant": "chr9:107485788_G>C",
       "group": 3
     },
     {
       "id": "TSC1",
-      "values": [0.1309],
+      "values":  0.1309  ,
       "effect": "likely_benign",
       "variant": "chr9:132925607_A>T",
       "group": 3
     },
     {
       "id": "NOTCH1",
-      "values": [0.2977],
+      "values":  0.2977  ,
       "effect": "likely_benign",
       "variant": "chr9:136501766_C>T",
       "group": 3
     },
     {
       "id": "FGFR2",
-      "values": [0.4708],
+      "values":  0.4708  ,
       "effect": "ambiguous",
       "variant": "chr10:121551331_C>T",
       "group": 3
     },
     {
       "id": "ZFTA",
-      "values": [0.1217],
+      "values":  0.1217  ,
       "effect": "likely_benign",
       "variant": "chr11:63765899_A>C",
       "group": 3
     },
     {
       "id": "KMT2D",
-      "values": [0.7303],
+      "values":  0.7303  ,
       "effect": "likely_pathogenic",
       "variant": "chr12:49051215_C>A",
       "group": 3
     },
     {
       "id": "SMARCD1",
-      "values": [0.3929],
+      "values":  0.3929  ,
       "effect": "ambiguous",
       "variant": "chr12:50087406_C>T",
       "group": 3
     },
     {
       "id": "PHLDA1",
-      "values": [0.5],
+      "values":  0.5  ,
       "effect": "unknown",
       "variant": "chr12:76031172_C>-",
       "group": 3
     },
     {
       "id": "ATXN2",
-      "values": [0.5],
+      "values":  0.5  ,
       "effect": "unknown",
       "variant": "chr12:111598995_GC>-",
       "group": 3
     },
     {
       "id": "HNF1A",
-      "values": [0.5],
+      "values":  0.5  ,
       "effect": "unknown",
       "variant": "chr12:120994314_->C",
       "group": 3
     },
     {
       "id": "BRCA2",
-      "values": [0.0626],
+      "values":  0.0626  ,
       "effect": "likely_benign",
       "variant": "chr13:32340099_C>T",
       "group": 3
     },
     {
       "id": "RB1",
-      "values": [0.0768],
+      "values":  0.0768  ,
       "effect": "likely_benign",
       "variant": "chr13:48381415_G>A",
       "group": 3
     },
     {
       "id": "DICER1",
-      "values": [0.1116],
+      "values":  0.1116  ,
       "effect": "likely_benign",
       "variant": "chr14:95124419_G>A",
       "group": 3
     },
     {
       "id": "TSC2",
-      "values": [0.0794],
+      "values":  0.0794  ,
       "effect": "likely_benign",
       "variant": "chr16:2088275_C>A",
       "group": 3
     },
     {
       "id": "CREBBP",
-      "values": [0.3997],
+      "values":  0.3997  ,
       "effect": "ambiguous",
       "variant": "chr16:3731412_T>G",
       "group": 3
     },
     {
       "id": "GSE1",
-      "values": [0.5],
+      "values":  0.5  ,
       "effect": "unknown",
       "variant": "chr16:85654987_T>G",
       "group": 3
     },
     {
       "id": "TP53",
-      "values": [0.0724],
+      "values":  0.0724  ,
       "effect": "likely_benign",
       "variant": "chr17:7676154_G>C",
       "group": 3
     },
     {
       "id": "NF1",
-      "values": [0.1112],
+      "values":  0.1112  ,
       "effect": "likely_benign",
       "variant": "chr17:31340628_C>T",
       "group": 3
     },
     {
       "id": "PPM1D",
-      "values": [0.9929],
+      "values":  0.9929  ,
       "effect": "likely_pathogenic",
       "variant": "chr17:60623728_G>A",
       "group": 3
     },
     {
       "id": "SMARCA4",
-      "values": [0.077],
+      "values":  0.077  ,
       "effect": "likely_benign",
       "variant": "chr19:10996246_G>A",
       "group": 3
     },
     {
       "id": "NOTCH3",
-      "values": [0.1792],
+      "values":  0.1792  ,
       "effect": "likely_benign",
       "variant": "chr19:15174335_G>A",
       "group": 3
     },
     {
       "id": "LZTR1",
-      "values": [0.4107],
+      "values":  0.4107  ,
       "effect": "ambiguous",
       "variant": "chr22:20995871_A>T",
       "group": 3
     },
     {
       "id": "DDX3X",
-      "values": [0.5753],
+      "values":  0.5753  ,
       "effect": "likely_pathogenic",
       "variant": "chrX:41344260_C>T",
       "group": 3
     },
     {
       "id": "ATRX",
-      "values": [0.273],
+      "values":  0.273  ,
       "effect": "likely_benign",
       "variant": "chrX:77508509_G>A",
       "group": 3
     }
-  ]
+] 
